@@ -1,3 +1,10 @@
-# Welcome to My Markdown File
+# Markdown File
 
-This file is created and edited as part of a GitHub pull request tutorial. You can use multiple headers by adding one to six `#` characters before the text.
+### Example Headers
+
+# H1 Header
+## H2 Header
+### H3 Header
+#### H4 Header
+##### H5 Header
+###### H6 Header
